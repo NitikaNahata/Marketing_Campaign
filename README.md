@@ -11,21 +11,21 @@ The notebook MARKETING_CAMPAIGN_A_B_TESTING.ipynb performs an in-depth analysis 
 
 Key Features
 -1)Data loading and preprocessing
-2)Exploratory data analysis
-3)Statistical analysis of A/B test results
-4)Visualization of key metrics and trends
+-2)Exploratory data analysis
+-3)Statistical analysis of A/B test results
+-4)Visualization of key metrics and trends
 
 Dependencies
 The project relies on the following Python libraries:
-pandas
-numpy
-matplotlib
-seaborn
+-pandas
+-numpy
+-matplotlib
+-seaborn
 
 # Results:
 
 The notebook provides insights into:
-1)The effectiveness of different ad strategies
-2)Optimal times and days for ad placement
-3)The relationship between ad exposure and conversion rates
+-1)The effectiveness of different ad strategies
+-2)Optimal times and days for ad placement
+-3)The relationship between ad exposure and conversion rates
 These findings can be used to optimize future marketing campaigns and improve overall conversion rates.
