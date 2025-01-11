@@ -25,7 +25,7 @@ The project relies on the following Python libraries:
 # Results:
 
 The notebook provides insights into:
--1)The effectiveness of different ad strategies
--2)Optimal times and days for ad placement
--3)The relationship between ad exposure and conversion rates
+- 1)The effectiveness of different ad strategies
+- 2)Optimal times and days for ad placement
+- 3)The relationship between ad exposure and conversion rates
 These findings can be used to optimize future marketing campaigns and improve overall conversion rates.
