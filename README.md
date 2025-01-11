@@ -5,9 +5,9 @@ This repository contains a Python notebook for analyzing the results of an A/B t
 # Project Overview:
 
 The notebook MARKETING_CAMPAIGN_A_B_TESTING.ipynb performs an in-depth analysis of marketing campaign data, focusing on:
-1)Comparison of conversion rates between different test groups
-2)Analysis of ad exposure and its correlation with conversion
-3)Examination of temporal patterns in ad effectiveness
+1) - Comparison of conversion rates between different test groups
+2)- Analysis of ad exposure and its correlation with conversion
+3) - Examination of temporal patterns in ad effectiveness
 
 Key Features
 -1)Data loading and preprocessing
