@@ -10,7 +10,7 @@ The notebook MARKETING_CAMPAIGN_A_B_TESTING.ipynb performs an in-depth analysis 
 3)Examination of temporal patterns in ad effectiveness
 
 Key Features
-1)Data loading and preprocessing
+-1)Data loading and preprocessing
 2)Exploratory data analysis
 3)Statistical analysis of A/B test results
 4)Visualization of key metrics and trends
